@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-September 18 2022
+5 July 2025
 
 # Press Kit
 <br>
@@ -33,11 +33,6 @@ Landlords Co is your go-to platform for efficient property management, empowerin
 ### landlords Co App category URL
 https://apps.apple.com/app/id6478403264
 
-### Find website
-https://landlordsco.karmaacademy.com.au
-
-### Developer Twitter
-https://twitter.com/CodeWithKarma
 
 ## Accolades
 ![image](../images/review1.png)
